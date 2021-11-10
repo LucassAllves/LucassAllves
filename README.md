@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá... Seje bem vindo ao meu Perfil 😎
 
-<!--
-**LucassAllves/LucassAllves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/77105353/141194040-4aa9018a-c283-4ad7-a404-9fd76abd951d.jpeg" width=600px; >
+                                                                                                                     
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 
+- 🌱 
+- 👯 
+- 🤔 
+- 💬 
+- 📫 
+- 😄 
+- ⚡ 
+
