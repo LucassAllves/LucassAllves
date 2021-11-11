@@ -9,3 +9,7 @@
 - 🚀  Atuei na MC1 em uma projeto web, mobile e IOS, no ramo de Transportadora com um fremework bem bacana, que é o Robot fremework em Paython.
 - 📈  Amo o que faço e busco fazer o melhor e melhorar a cada dia... aprendendo e disseminando conhecimento. 
 
+[![Lucas Alves](https://github-readme-stats.vercel.app/api?username=LucassAllves&show_icons=true&theme=tokyonight)
+
+
+
