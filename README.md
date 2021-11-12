@@ -5,9 +5,9 @@
 ## Sobre 
 - 👔 Estou cursando Análise e Desenvolvimento de sistema na Cruzeiro do sul. 
 - 🕵️ Trabalho como QA (Quality assurance Pleno) na groovtech.
-- ✔️  Estou atuando no time de ecommerce ammovarejo (aplicação web, utilizando Cypress e javascript), que atua com ecommerce e tem três lojas que são: mmartan, Artex e Santista.
+- ✔️  Estou atuando no time de ecommerce Ammo Varejo (aplicação web, utilizando Cypress e javascript), que atua com ecommerce em três lojas de artigos de casa mesa e banho, que atualmente vem espandindo suas categorais... são elas: [mmartan](https://mmartan.com.br/), [Artex](https://dev.artex.com.br/) **e** [Santista](https://santistadecora.com.br/).
 - 🚀  Atuei na MC1 em uma projeto web, mobile e IOS, no ramo de Transportadora com um fremework bem bacana, que é o Robot fremework em Paython.
-- 📈  Amo o que faço e busco fazer o melhor e melhorar a cada dia... aprendendo e disseminando conhecimento. 
+- 📈  Amo o que faço e busco dar meu melhor e melhorar a cada dia... aprendendo e disseminando conhecimento adquiridos. 
 
 ## Conhecimentos em:
 - [X] <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
