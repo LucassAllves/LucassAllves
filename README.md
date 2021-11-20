@@ -3,11 +3,11 @@
 <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/77105353/141194040-4aa9018a-c283-4ad7-a404-9fd76abd951d.jpeg" width=350px; >
                                                                                                                      
 ## Sobre 
-- 👔 Estou cursando Análise e Desenvolvimento de sistema na Cruzeiro do sul. 
+- 👔 Estou cursando Análise e Desenvolvimento de sistema na Cruzeiro do sul. 
 - 🕵️ Trabalho como QA (Quality assurance Pleno) na groovtech.
-- ✔️  Estou atuando no time de ecommerce Ammo Varejo (aplicação web, utilizando Cypress e javascript), que atua com ecommerce em três lojas de artigos de casa mesa e banho, que atualmente vem espandindo suas categorais... são elas: [mmartan](https://mmartan.com.br/), [Artex](https://dev.artex.com.br/) **e** [Santista](https://santistadecora.com.br/).
-- 🚀  Atuei na MC1 em uma projeto web, mobile e IOS, no ramo de Transportadora com um fremework bem bacana, que é o Robot fremework em Paython.
-- 📈  Amo o que faço e busco dar meu melhor e melhorar a cada dia... aprendendo e disseminando conhecimento adquiridos. 
+- ✔️  Estou atuando no squad de ecommerce Ammo Varejo (aplicação “web”, utilizando Cypress e javascript), que atua com ecommerce em três lojas de artigos de casa mesa e banho, que atualmente vem espandindo suas categorais... são elas: [mmartan](https://mmartan.com.br/), [Artex](https://dev.artex.com.br/) **e** [Santista](https://santistadecora.com.br/).
+- 🚀  Atuei na MC1 em um projeto, “web”, mobile e IOS, no ramo de Transportadora com um fremework bem bacana,  o Robot fremework em Paython.
+- 📈  Amo o que faço e busco dar meu melhor e melhorar a cada dia... aprendendo e disseminando conhecimento, adquiridos. 
 
 ## Conhecimentos em:
 - [X] <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
