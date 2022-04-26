@@ -4,7 +4,7 @@
                                                                                                                      
 ## Sobre 
 - 👔 Estou cursando Análise e Desenvolvimento de sistema. 
-- 🕵️ Trabalho como TESTE ENGINEER PLENO na AMMO.VAREJO.
+- 🕵️ Trabalho como TESTE ENGINEER PLENO na ammo.varejo.
 - ✔️  Estou atuando no squad de ecommerce(aplicação “web”, utilizando Cypress e TypeScript),trabalho remotamente nas lojas de casa mesa e banho, que atualmente vem expandindo suas categorias... são elas: [mmartan](https://mmartan.com.br/), [Artex](https://dev.artex.com.br/) **e** [Santistadecora](https://santistadecora.com.br/).
 - 🚀  Trabalhei também na MC1 em um projeto, “web”, mobile e IOS, no ramo de Transportadora com Robot fremework em Paython.
 - 📈  Amo o que faço e busco dar meu melhor e melhorar a cada dia... aprendendo e disseminando conhecimento adquiridos. 
